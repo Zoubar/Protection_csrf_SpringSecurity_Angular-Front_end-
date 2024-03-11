@@ -1,0 +1,10 @@
+- backend with spring security
+- endpoints to read and create messages
+- frontend with angular
+- components to display and submit
+- configure spring security
+- stateful application
+- component to login
+- csrf endpoint
+- request the csrf token
+- use the csrf in the header
